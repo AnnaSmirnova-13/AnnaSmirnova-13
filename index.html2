@@ -28,8 +28,8 @@
 </div><div>
 	<img src="адрес">
 	
+	<h2>Обо мне</h2>
 </body>
-<h2>Обо мне</h2>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -46,22 +46,22 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <h2>что я умею</2>
 <img src="адрес">
-<nav>"Веб-дизайн"</nav>
+<div>"Веб-дизайн"</div>
 <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur.</p> 
 <img src="адрес
-<nav>"Разработка"</nav>
+<div>"Разработка"</div>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua.</p>
 <img src="адрес">
-<nav>"CEO-оптимизация"</nav>
+<div>"CEO-оптимизация"</div>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua.</p>
 <img src="адрес">
-<nav>"Маркетинг"
+<div>"Маркетинг"</div>
 	<p> Ut enim ad minim veniam,
 	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 	consequat.</p> 
@@ -85,7 +85,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <h2>Расчет стоимости</h2>
 <h2>тип сайта</h2>
 <h2>Дизайн</h2>
-<select
+<select name="адрес"
 <h2>Адаптивность</h2>
 <select
 <h4><b>сроки<b></h2>
@@ -116,7 +116,7 @@ tempor incididunt ut labore et dolore magna aliqua.</p>
 <h2>оставьте мне сообщение</h2>
 <input type="submit" value="имя">
 <input type="submit" value="email">
-<input type="submit" value="textarea">
+<textarea>
 <input type="submit" value="отправить">
 <inpute type="submit" value="facebook">
 <inpute	type="submit" value="twitter">
