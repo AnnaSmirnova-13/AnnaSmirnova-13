@@ -24,7 +24,7 @@ font-family: Arial, sans-serif;
 .menu li{
 	float: left;
 	line-height: 60px
-	color: #fff;
+	background-color(52; 64; 41) 
 	margin-right: 40px;
 	font-size: 16px;
 	text-transform: uppercase;
